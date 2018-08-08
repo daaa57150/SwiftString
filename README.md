@@ -1,10 +1,10 @@
 # SwiftString
 
 [![Version](https://img.shields.io/cocoapods/v/String+Extensions.svg?style=flat)](http://cocoapods.org/pods/String+Extensions)
-[![License](https://img.shields.io/cocoapods/l/String+Extensions.svg?style=flat)](http://cocoapods.org/pods/String+Extensions) ![Language](https://img.shields.io/badge/language-Swift%203.0-orange.svg) ![Language](https://img.shields.io/badge/language-Swift%204.0-orange.svg)
+[![License](https://img.shields.io/cocoapods/l/String+Extensions.svg?style=flat)](http://cocoapods.org/pods/String+Extensions) ![Language](https://img.shields.io/badge/language-Swift%203.0-orange.svg) ![Language](https://img.shields.io/badge/language-Swift%204.1-orange.svg)
 
 
-SwiftString is a lightweight string extension for Swift 3 and 4.
+SwiftString is a lightweight string extension for Swift 4.1
 This library was motivated by having to search StackOverflow for common string operations,
 and wanting them to be in one place with test coverage.
 
@@ -15,7 +15,7 @@ Note the original client side Swift 2 repo can be found here:
 
 This fork is intended as a server side utility.
 
-* It is Swift 3.x, 4.0 and Swift Package Manager (SPM) ready.
+* It is Swift 3.x, 4.1 and Swift Package Manager (SPM) ready.
 * Added sigificant test coverage
 
 ## Swift 3.0.2, 3.1 only

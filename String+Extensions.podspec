@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'String+Extensions'
-  s.version          = '2.0.4'
+  s.version          = '2.0.5'
   s.summary          = 'A lightweight string extension for Swift'
 
   s.description      = <<-DESC
@@ -23,7 +23,7 @@ DESC
     "Andrew Mayne" => "andrew@redbricklab.com",
     "Jonathan Guthrie" => "jono@guthrie.net.nz"
   }
-  s.source           = { :git => 'https://github.com/iamjono/SwiftString.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/daaa57150/SwiftString.git', :branch => master }
 
   s.requires_arc = true
   s.ios.deployment_target = '8.0'
