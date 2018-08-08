@@ -23,7 +23,7 @@ DESC
     "Andrew Mayne" => "andrew@redbricklab.com",
     "Jonathan Guthrie" => "jono@guthrie.net.nz"
   }
-  s.source           = { :git => 'https://github.com/daaa57150/SwiftString.git', :branch => master }
+  s.source           = { :git => 'https://github.com/daaa57150/SwiftString.git', :branch => 'master' }
 
   s.requires_arc = true
   s.ios.deployment_target = '8.0'
